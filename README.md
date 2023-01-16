@@ -2,7 +2,6 @@
 - 🔭 I’m an undergrad at University of Vermont studying Computer Science
 - 📖 I’m currently reading The Pragmatic Programmer 
 - 📫 You Can reach me at <Aiden.Mccormack@uvm.edu>
-- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/aiden-mccormack/)!
 
 <!--
 **aidnrm/aidnrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
